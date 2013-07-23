@@ -1,4 +1,14 @@
-Gnu.Getopt.Net 0.9.2
+Net-GNU-Getopt 1.0.0
+--------------------
+
+This is a slightly modified version of the gnu-getopt port done by Klaus Prückl. I cleaned up some of the code I wanted and may make future changes.
+
+Feel free to fork.
+
+-Brandon Wulf
+
+
+Original Info Below:
 --------------------
 
 This is a Getopt C#.NET port based on version 1.0.9 of Aaron M. Renn's Java
